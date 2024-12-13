@@ -1,5 +1,3 @@
-**Pie Chart Analysis**
-
 # Pie Chart for Frequency of Income Groups
 
 ## Overview
