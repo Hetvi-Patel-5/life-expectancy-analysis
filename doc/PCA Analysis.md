@@ -1,5 +1,5 @@
-### **4. PCA Analysis.md**
-```markdown
+**PCA Analysis**
+
 # Principal Component Analysis (PCA)
 
 ## Overview
