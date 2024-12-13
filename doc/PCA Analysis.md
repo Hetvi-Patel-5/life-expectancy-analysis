@@ -1,5 +1,3 @@
-**PCA Analysis**
-
 # Principal Component Analysis (PCA)
 
 ## Overview
