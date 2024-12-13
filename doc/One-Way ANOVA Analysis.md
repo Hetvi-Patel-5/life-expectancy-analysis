@@ -1,4 +1,4 @@
-### One-Way ANOVA Methodology
+# One-Way ANOVA Analysis
 
 ## Overview
 One-Way ANOVA (Analysis of Variance) is a statistical method used to determine if there are significant differences between the means of three or more independent groups. In this analysis, we examined how income groups influence life expectancy.
