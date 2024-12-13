@@ -1,5 +1,3 @@
-**Regression Analysis**
-
 # Regression Analysis: Factors Influencing Life Expectancy
 
 ## Overview
