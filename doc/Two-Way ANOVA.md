@@ -1,5 +1,5 @@
-### **2. Two-Way ANOVA.md**
-```markdown
+ **Two-Way ANOVA**
+
 # Two-Way ANOVA: Life Expectancy by Income Group and Region
 
 ## Overview
