@@ -1,5 +1,3 @@
-### **Frequency Analysis**
-
 # Frequency Analysis for Income Groups
 
 ## Overview
